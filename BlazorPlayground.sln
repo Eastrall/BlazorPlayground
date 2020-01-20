@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D63108BF-EC26-467F-93FE-6E6BBB7DFAE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPlayground.App", "src\BlazorPlayground.App\BlazorPlayground.App.csproj", "{3674C851-936D-401D-AA26-12E4C91EABB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3674C851-936D-401D-AA26-12E4C91EABB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3674C851-936D-401D-AA26-12E4C91EABB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3674C851-936D-401D-AA26-12E4C91EABB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3674C851-936D-401D-AA26-12E4C91EABB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3674C851-936D-401D-AA26-12E4C91EABB9} = {D63108BF-EC26-467F-93FE-6E6BBB7DFAE6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBFF21F-1E2E-4040-A38A-5A9DC65BDFA7}
+	EndGlobalSection
+EndGlobal
